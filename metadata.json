@@ -1,0 +1,6 @@
+{
+  "name": "RedeemPulse — Clean & Secure Promo Voucher Engine",
+  "description": "Ad-free redeem code platform with real-time atomic balance crediting, brute-force rate limiting, and voucher management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
